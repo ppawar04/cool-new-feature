@@ -1,2 +1,2 @@
 echo "Hello Xento";
-echo "Hello Pratap p";
+// today is thursday
