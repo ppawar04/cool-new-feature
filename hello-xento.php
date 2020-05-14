@@ -1,1 +1,1 @@
-echo "Hello Xento";
+echo "Hello from release branch";
